@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: ONLINE_RETAIL/MAGENTO2_PRIOR_DOCS
+# records: 5
+# head: c9024f40bcb1ad5511e77705ca8f68cefd22409ba9ea502d63edd0292755abcd
+{"digest": "2fa855661979c27d0ed20e3965ae6aae267d2fa96f7709ca022b259ce921d905", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "2e6e6a8a17093612609f182528d13335810e2fcb1843ba7338dc48fb78a68eb9", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:53:52Z"}
+{"digest": "20627e25871aec4603e516a54556a9b8ca76f50bb05ca91bb035805443ed43f2", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "be3ab20eb6396acd23613e091206e7f6d1e9ebb2bd133fba881e85dc0a5a82c8", "prev": "2fa855661979c27d0ed20e3965ae6aae267d2fa96f7709ca022b259ce921d905", "seq": 1, "ts": "2026-10-09T05:53:52Z"}
+{"digest": "aa384656829948e29a4b9766819af2ba2067ab18ea4c4e8c4e2815bdd86cb697", "kind": "readme", "path": "README.md", "payload_sha3": "0a58820c998eab1de0b2484c4e15b6a869de5bd69d1162b3dec6557b8fb5b65d", "prev": "20627e25871aec4603e516a54556a9b8ca76f50bb05ca91bb035805443ed43f2", "seq": 2, "ts": "2026-10-09T05:53:52Z"}
+{"digest": "67374bdb11f0368896c48991862744c87b59e42633d7ddfc16ffb758a213dbc6", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "ae3fdeb401e23c448e69e2fd87dd60d3a605d55fcfbd14566137786a60b15cd2", "prev": "aa384656829948e29a4b9766819af2ba2067ab18ea4c4e8c4e2815bdd86cb697", "seq": 3, "ts": "2026-10-09T05:53:52Z"}
+{"digest": "c9024f40bcb1ad5511e77705ca8f68cefd22409ba9ea502d63edd0292755abcd", "kind": "notice", "path": "NOTICE", "payload_sha3": "2cfc91cf662980da5027eeb984edd5f441e5002dfe308c5c32ce6b2db4b59b10", "prev": "67374bdb11f0368896c48991862744c87b59e42633d7ddfc16ffb758a213dbc6", "seq": 4, "ts": "2026-10-09T05:53:52Z"}
